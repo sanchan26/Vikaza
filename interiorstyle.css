@@ -1,4 +1,8 @@
-﻿.marginer {
+﻿html{
+  margin: 0;
+}
+
+.marginer {
   margin-top: 5%;
 }
 
