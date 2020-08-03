@@ -113,35 +113,35 @@
 }
 
 .img-1 {
-  background-image: url("links/img 1.jpg");
+  background-image: url("img 1.jpg");
 }
 
 .img-2 {
-  background-image: url("links/img 2.jpg");
+  background-image: url("img 2.jpg");
 }
 
 .img-3 {
-  background-image: url("links/img 3.jpg");
+  background-image: url("img 3.jpg");
 }
 
 .img-4 {
-  background-image: url("links/img 4.jpg");
+  background-image: url("img 4.jpg");
 }
 
 .img-5 {
-  background-image: url("links/img 1.jpg");
+  background-image: url("img 1.jpg");
 }
 
 .img-6 {
-  background-image: url("links/img 2.jpg");
+  background-image: url("img 2.jpg");
 }
 
 .img-7 {
-  background-image: url("links/img 3.jpg");
+  background-image: url("img 3.jpg");
 }
 
 .img-8 {
-  background-image: url("links/img 4.jpg");
+  background-image: url("img 4.jpg");
 }
 
 @media screen and (max-width: 600px) {
