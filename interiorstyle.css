@@ -556,6 +556,7 @@ a {
     background-color: white;
     width: 75%;
     margin: 0 12.5%;
+    margin-bottom:5%;
     background-color: white;
     font-family: Charmonman;
     font-size: 1.25rem;
@@ -564,7 +565,7 @@ a {
     justify-content: space-between;
     align-items: center;
     line-height: 2em;
-      height:115vh;
+    height:105vh;
   }
 
   .voice1 {
@@ -625,22 +626,34 @@ a {
     display:flex;
     justify-content:flex-start;
   }
+
+  .ph a{
+    color:khaki;
+  }
+
+   .mail a{
+    color:khaki;
+  }
+
+   .designedby a{
+    color:khaki;
+  }
   .ph::before {
-    content: url("links/icon-phone.svg");
+    content: url("icon-phone.svg");
     bottom: -4px;
     position: relative;
     right: 30px;
   }
 
   .mail::before {
-    content: url("links/icon-email.svg");
+    content: url("icon-email.svg");
     bottom: -28px;
     position: relative;
     right: 30px;
   }
 
   .address::before {
-    content: url("links/icon-location.svg");
+    content: url("icon-location.svg");
     bottom: -35px;
     position: relative;
     right: 30px;
